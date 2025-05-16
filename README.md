@@ -9,7 +9,7 @@ All file modifications are done in memory. If something goes wrong or you want t
 # Support Table
 | iOS Version | Support Status |
 | -------- | ------- |
-| 15.0 - iOS 15.8.4  | Unknown |
+| iOS 15.0 - iOS 15.8.4  | Unknown |
 | iOS 16.0 - iOS 16.7.10  | Supported |
 | iOS 17.0 - iOS 17.7.5 | Supported |
 | iOS 17.7.6+ | Not Supported |
@@ -17,7 +17,7 @@ All file modifications are done in memory. If something goes wrong or you want t
 | iOS 18.4+ | Not Supported |
 
 # How can I respring after I apply the changes?
-Unfortunately, there isn't an easy way to do this yet. Here are two methods:
+Unfortunately, there isn't an easy way to do this yet. Here are three methods:
 
 **Method 1: RespringApp**
 1. Download [this .ipa](https://github.com/C4ndyF1sh/ZeroCalories/raw/refs/heads/main/respringapp.ipa).
